@@ -1,0 +1,14 @@
+check_name,category,status,issues_found,details
+Duplicate Rows,Integrity,PASS,0,No duplicate rows found.
+"Duplicate (product_id, date) Combinations",Integrity,PASS,0,"Unique composite primary key (product_id, date) verified."
+Missing Values,Completeness,INFO,1840,"Missing values present only in lag and target horizon columns: {'sales_lag_1': 20, 'sales_lag_7': 140, 'sales_lag_14': 280, 'sales_lag_30': 600, 'sales_rolling_mean_7': 20, 'sales_rolling_mean_14': 20, 'sales_rolling_mean_30': 20, 'target_demand_next_7d': 140, 'target_demand_next_30d': 600}"
+Negative Units Sold,Value Range,PASS,0,All units_sold values are non-negative.
+Negative Revenue,Value Range,PASS,0,All revenue values are non-negative.
+Zero or Negative Price,Value Range,PASS,0,All unit prices are positive.
+"Invalid Ratings (outside [0, 5])",Value Range,PASS,0,"All product ratings lie in range [4.01, 4.69]."
+"Invalid Discount Percentage (outside [0, 100])",Value Range,PASS,0,Discounts range from 0.0% to 20.0%.
+Invalid Inventory Quantities (< 0),Value Range,PASS,0,"All current, reserved, and incoming inventory counts are non-negative."
+Invalid Lead Time (<= 0 days),Value Range,PASS,0,Lead times range from 6 to 20 days.
+Invalid Minimum Order Quantity (<= 0),Value Range,PASS,0,MOQ values range from 10 to 75 units.
+Product Daily Record Count (~1000),Granularity,PASS,0,"All 20 products have exactly 1,000 daily records."
+Chronological Continuity,Time Series,PASS,0,100% daily chronological continuity across all products with 0 missing dates.

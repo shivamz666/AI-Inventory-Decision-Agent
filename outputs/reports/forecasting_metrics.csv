@@ -1,0 +1,7 @@
+model,split,MAE,RMSE,MAPE
+Baseline (7D Moving Avg),Train,15.8133,21.7746,12.6995
+HistGradientBoosting ML Model,Train,8.3446,10.6871,7.1729
+Baseline (7D Moving Avg),Validation,16.1819,21.0739,11.2954
+HistGradientBoosting ML Model,Validation,12.5046,16.5447,8.5929
+Baseline (7D Moving Avg),Test,16.3406,21.0014,12.9092
+HistGradientBoosting ML Model,Test,12.7332,16.7997,9.5493

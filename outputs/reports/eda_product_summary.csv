@@ -1,0 +1,21 @@
+product_id,product_name,category,total_units,total_revenue,avg_daily_demand,avg_price,avg_inventory,stockout_days,stockout_rate,volume_tier
+P008,Fast USB-C Charger,Mobile Accessories,43332,42879927.15,43.332,999.0,52571.076,0,0.0,High Volume
+P001,Wireless Gaming Mouse,Computer Accessories,40600,36111886.05,40.6,899.0,36616.324,0,0.0,High Volume
+P007,Power Bank 20000mAh,Mobile Accessories,33768,50265442.35,33.768,1499.0,12769.272,0,0.0,High Volume
+P005,USB-C Hub 7-in-1,Computer Accessories,31941,41043723.6,31.941,1299.0,5655.816,3,0.003,High Volume
+P009,Wireless Earbuds,Audio,29608,67443349.05,29.608,2299.0,15197.788,0,0.0,High Volume
+P016,LED Desk Lamp,Home & Office,29341,26192409.95,29.341,899.0,27662.838,0,0.0,High Volume
+P003,Gaming Headset,Computer Accessories,26744,52961506.0,26.744,1999.0,7633.249,2,0.002,High Volume
+P018,Electric Kettle,Kitchen Appliances,26586,42034352.1,26.586,1599.0,19096.839,0,0.0,High Volume
+P006,Bluetooth Speaker,Audio,25473,45526663.35,25.473,1799.0,13901.48,0,0.0,High Volume
+P002,Mechanical Gaming Keyboard,Computer Accessories,23628,58404129.0,23.628,2499.0,10178.615,0,0.0,Medium Volume
+P010,Smartwatch,Wearables,21034,72781649.3,21.034,3499.0,3676.117,0,0.0,Medium Volume
+P011,Laptop Stand,Office Accessories,19097,22719371.4,19.097,1199.0,15354.532,0,0.0,Medium Volume
+P004,1080p USB Webcam,Computer Accessories,17459,27719064.75,17.459,1599.0,13440.596,0,0.0,Medium Volume
+P015,1080p Security Camera,Smart Home,15873,44086209.3,15.873,2799.0,8682.281,0,0.0,Medium Volume
+P013,Portable SSD 1TB,Computer Accessories,12627,87399312.6,12.627,6999.0,3708.04,0,0.0,Low Volume
+P020,Monitor 24-inch,Computer Accessories,10672,116242381.55,10.672,10999.0,2981.498,0,0.0,Low Volume
+P014,Wi-Fi 6 Router,Networking,10568,47086534.0,10.568,4499.0,1914.447,1,0.001,Low Volume
+P017,Air Fryer 4L,Kitchen Appliances,9483,47026342.85,9.483,4999.0,944.001,7,0.007,Low Volume
+P012,Ergonomic Office Chair,Furniture,7853,69990622.4,7.853,8999.0,521.562,4,0.004,Low Volume
+P019,Robot Vacuum,Smart Home,4944,73536347.25,4.944,14999.0,71.403,63,0.063,Low Volume

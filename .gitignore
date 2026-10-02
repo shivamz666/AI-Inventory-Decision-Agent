@@ -1,0 +1,25 @@
+# Environment variables & secrets
+.env
+*.env
+
+# Data & cache directories
+data/external/
+data/processed/*.csv
+!data/processed/product_catalog.csv
+
+# Models & binary artifacts
+models/*.pkl
+*.pkl
+
+# Python bytecode & cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# IDE files
+.vscode/
+.idea/

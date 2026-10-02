@@ -1,0 +1,668 @@
+{
+  "project": "BFWAI",
+  "handoff_version": "1.0",
+  "source": "C:\\Users\\shiva\\Downloads\\BFWAI\\data\\raw\\customer_inventory_upload.csv",
+  "generated_at": "2026-09-30T10:07:51.222971+00:00",
+  "products": [
+    {
+      "product_id": "P001",
+      "product_name": "Wireless Gaming Mouse",
+      "category": "Computer Accessories",
+      "brand": "NovaTech",
+      "forecast": {
+        "forecast_7d": 221,
+        "forecast_30d": 947,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 73072,
+        "reserved_inventory": 3,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 7,
+        "minimum_order_quantity": 50,
+        "reorder_point": 456
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P002",
+      "product_name": "Mechanical Gaming Keyboard",
+      "category": "Computer Accessories",
+      "brand": "KeyPro",
+      "forecast": {
+        "forecast_7d": 121,
+        "forecast_30d": 519,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 20061,
+        "reserved_inventory": 2,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 10,
+        "minimum_order_quantity": 40,
+        "reorder_point": 330
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P003",
+      "product_name": "Gaming Headset",
+      "category": "Computer Accessories",
+      "brand": "SoundMax",
+      "forecast": {
+        "forecast_7d": 122,
+        "forecast_30d": 523,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 14956,
+        "reserved_inventory": 0,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 12,
+        "minimum_order_quantity": 50,
+        "reorder_point": 425
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P004",
+      "product_name": "1080p USB Webcam",
+      "category": "Computer Accessories",
+      "brand": "VisionX",
+      "forecast": {
+        "forecast_7d": 88,
+        "forecast_30d": 377,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 27253,
+        "reserved_inventory": 1,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 8,
+        "minimum_order_quantity": 30,
+        "reorder_point": 234
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P005",
+      "product_name": "USB-C Hub 7-in-1",
+      "category": "Computer Accessories",
+      "brand": "ConnectPro",
+      "forecast": {
+        "forecast_7d": 123,
+        "forecast_30d": 527,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 10953,
+        "reserved_inventory": 0,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 14,
+        "minimum_order_quantity": 50,
+        "reorder_point": 570
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P006",
+      "product_name": "Bluetooth Speaker",
+      "category": "Audio",
+      "brand": "SoundMax",
+      "forecast": {
+        "forecast_7d": 125,
+        "forecast_30d": 536,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 27438,
+        "reserved_inventory": 0,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 9,
+        "minimum_order_quantity": 40,
+        "reorder_point": 336
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P007",
+      "product_name": "Power Bank 20000mAh",
+      "category": "Mobile Accessories",
+      "brand": "VoltEdge",
+      "forecast": {
+        "forecast_7d": 167,
+        "forecast_30d": 716,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 24940,
+        "reserved_inventory": 0,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 11,
+        "minimum_order_quantity": 50,
+        "reorder_point": 512
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P008",
+      "product_name": "Fast USB-C Charger",
+      "category": "Mobile Accessories",
+      "brand": "VoltEdge",
+      "forecast": {
+        "forecast_7d": 247,
+        "forecast_30d": 1059,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 106151,
+        "reserved_inventory": 3,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 6,
+        "minimum_order_quantity": 75,
+        "reorder_point": 495
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P009",
+      "product_name": "Wireless Earbuds",
+      "category": "Audio",
+      "brand": "SoundMax",
+      "forecast": {
+        "forecast_7d": 171,
+        "forecast_30d": 733,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 29922,
+        "reserved_inventory": 2,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 10,
+        "minimum_order_quantity": 50,
+        "reorder_point": 420
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P010",
+      "product_name": "Smartwatch",
+      "category": "Wearables",
+      "brand": "FitCore",
+      "forecast": {
+        "forecast_7d": 143,
+        "forecast_30d": 613,
+        "sales_trend": "stable"
+      },
+      "inventory": {
+        "current_inventory": 6881,
+        "reserved_inventory": 0,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 15,
+        "minimum_order_quantity": 30,
+        "reorder_point": 400
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P011",
+      "product_name": "Laptop Stand",
+      "category": "Office Accessories",
+      "brand": "DeskMate",
+      "forecast": {
+        "forecast_7d": 115,
+        "forecast_30d": 493,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 30530,
+        "reserved_inventory": 0,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 8,
+        "minimum_order_quantity": 50,
+        "reorder_point": 234
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P012",
+      "product_name": "Ergonomic Office Chair",
+      "category": "Furniture",
+      "brand": "ComfortSeat",
+      "forecast": {
+        "forecast_7d": 52,
+        "forecast_30d": 223,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 1063,
+        "reserved_inventory": 0,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 18,
+        "minimum_order_quantity": 10,
+        "reorder_point": 184
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P013",
+      "product_name": "Portable SSD 1TB",
+      "category": "Computer Accessories",
+      "brand": "DataPro",
+      "forecast": {
+        "forecast_7d": 70,
+        "forecast_30d": 300,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 7389,
+        "reserved_inventory": 0,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 12,
+        "minimum_order_quantity": 20,
+        "reorder_point": 204
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P014",
+      "product_name": "Wi-Fi 6 Router",
+      "category": "Networking",
+      "brand": "NetLink",
+      "forecast": {
+        "forecast_7d": 60,
+        "forecast_30d": 257,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 3740,
+        "reserved_inventory": 1,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 14,
+        "minimum_order_quantity": 20,
+        "reorder_point": 190
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P015",
+      "product_name": "1080p Security Camera",
+      "category": "Smart Home",
+      "brand": "HomeGuard",
+      "forecast": {
+        "forecast_7d": 89,
+        "forecast_30d": 381,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 17206,
+        "reserved_inventory": 0,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 9,
+        "minimum_order_quantity": 30,
+        "reorder_point": 210
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P016",
+      "product_name": "LED Desk Lamp",
+      "category": "Home & Office",
+      "brand": "BrightHome",
+      "forecast": {
+        "forecast_7d": 130,
+        "forecast_30d": 557,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 55937,
+        "reserved_inventory": 0,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 7,
+        "minimum_order_quantity": 50,
+        "reorder_point": 360
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P017",
+      "product_name": "Air Fryer 4L",
+      "category": "Kitchen Appliances",
+      "brand": "KitchenPro",
+      "forecast": {
+        "forecast_7d": 61,
+        "forecast_30d": 261,
+        "sales_trend": "increasing"
+      },
+      "inventory": {
+        "current_inventory": 1783,
+        "reserved_inventory": 1,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 16,
+        "minimum_order_quantity": 10,
+        "reorder_point": 189
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P018",
+      "product_name": "Electric Kettle",
+      "category": "Kitchen Appliances",
+      "brand": "KitchenPro",
+      "forecast": {
+        "forecast_7d": 123,
+        "forecast_30d": 527,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 37975,
+        "reserved_inventory": 0,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 8,
+        "minimum_order_quantity": 40,
+        "reorder_point": 325
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P019",
+      "product_name": "Robot Vacuum",
+      "category": "Smart Home",
+      "brand": "HomeGuard",
+      "forecast": {
+        "forecast_7d": 50,
+        "forecast_30d": 214,
+        "sales_trend": "increasing"
+      },
+      "inventory": {
+        "current_inventory": 33,
+        "reserved_inventory": 0,
+        "incoming_inventory": 100
+      },
+      "supplier": {
+        "lead_time_days": 20,
+        "minimum_order_quantity": 10,
+        "reorder_point": 125
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    },
+    {
+      "product_id": "P020",
+      "product_name": "Monitor 24-inch",
+      "category": "Computer Accessories",
+      "brand": "VisionX",
+      "forecast": {
+        "forecast_7d": 48,
+        "forecast_30d": 206,
+        "sales_trend": "decreasing"
+      },
+      "inventory": {
+        "current_inventory": 6150,
+        "reserved_inventory": 0,
+        "incoming_inventory": 0
+      },
+      "supplier": {
+        "lead_time_days": 13,
+        "minimum_order_quantity": 20,
+        "reorder_point": 198
+      },
+      "market_intelligence": {
+        "market_signal": "neutral",
+        "market_impact": 0.0,
+        "market_confidence": 0.0,
+        "market_relevance": 0.0,
+        "evidence_strength": 0.0,
+        "external_signal_available": false,
+        "market_reason": "Market intelligence unavailable or insufficient external evidence.",
+        "key_events": [],
+        "risks": [],
+        "opportunities": []
+      }
+    }
+  ]
+}
